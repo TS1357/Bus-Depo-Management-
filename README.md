@@ -1,1 +1,1 @@
-# Bus-Depo-Management-
+This is a web application created to track busses and digitizing the bus ticket booking system. I have used bootstrap for frontend and django for backend with using its database to store bus timings and transactions.
